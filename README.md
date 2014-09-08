@@ -9,7 +9,7 @@ custom script from original to add proxy authentication.
 
 https://github.com/prietopa/chocolatery_install_proxy_config/blob/master/chocolater_install_proxy.ps1
 
-1.- Download my custom ![alt text](https://github.com/prietopa/chocolatery_install_proxy_config/blob/master/chocolater_install_proxy.ps1 "script") to c:\install.ps1. and change:
+1.- Download my [custom script](https://github.com/prietopa/chocolatery_install_proxy_config/blob/master/chocolater_install_proxy.ps1) to c:\install.ps1. and change:
 - PROXYHOST
 - PORT
 - USER
