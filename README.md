@@ -17,8 +17,8 @@ Put your proxy configuration instead.
 
 2.- Configure PowerShell, add to console in PowerShell:
 
-[Environment]::SetEnvironmentVariable("http_proxy", "USER:PASS@PROXYHOST:PORT","Machine")
-[Environment]::SetEnvironmentVariable("https_proxy", "USER:PASS@PROXYHOST:PORT","Machine")
+  [Environment]::SetEnvironmentVariable("http_proxy", "USER:PASS@PROXYHOST:PORT","Machine")
+  [Environment]::SetEnvironmentVariable("https_proxy", "USER:PASS@PROXYHOST:PORT","Machine")
 
 Put your proxy configuration instead.
 
