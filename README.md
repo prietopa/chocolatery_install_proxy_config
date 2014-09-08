@@ -8,9 +8,9 @@ custom script from original to add proxy authentication.
 - original explanation from https://github.com/chocolatey/chocolatey/wiki/Proxy-Settings-for-Chocolatey
 
 ###1.- Download my [custom script](https://github.com/prietopa/chocolatery_install_proxy_config/blob/master/chocolater_install_proxy.ps1) to c:\install.ps1. and change:
-- PROXYSERVER:PORT
-- USER
-- PASS
+- PROXYSERVER:PORT (line 38)
+- USER (line 39)
+- PASS (line 40)
 
 Put your proxy configuration instead.
 
