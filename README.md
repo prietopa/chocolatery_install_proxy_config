@@ -26,9 +26,9 @@ Put your proxy configuration instead.
 ./install.ps1
 ```
 
-###4. Restart
+###4.- Restart
 
-###5. Start to install
+###5.- Start to install
 ```
 choco install atom
 ```
