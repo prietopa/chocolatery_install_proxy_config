@@ -27,3 +27,8 @@ Put your proxy configuration instead.
 ```
 
 ###4. Restart
+
+###5. Start to install
+```
+choco install atom
+```
