@@ -26,9 +26,12 @@ Put your proxy configuration instead.
 ./install.ps1
 ```
 
-###4.- Restart
+###4.- May be you must accept execute not signed scripts.
+set-executionpolicy remotesigned
 
-###5.- Start to install
+###5.- Restart
+
+###6.- Start to install
 ```
 choco install atom
 ```
