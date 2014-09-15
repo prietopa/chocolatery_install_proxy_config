@@ -27,8 +27,9 @@ Put your proxy configuration instead.
 ```
 
 ###4.- May be you must accept execute not signed scripts.
+```
 set-executionpolicy remotesigned
-
+```
 ###5.- Restart
 
 ###6.- Start to install
